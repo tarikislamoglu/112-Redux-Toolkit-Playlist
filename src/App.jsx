@@ -14,7 +14,7 @@ export default function App() {
       <div className=" md:w-2/3 w-full m-5 shadow-2xl rounded-md p-6">
         <button
           onClick={() => handleResetClick()}
-          className="p-2 m-2 bg-green-400 rounded-md text-white text-sm cursor-pointer"
+          className="p-2 m-2 bg-[#A0C878] rounded-md text-white text-sm cursor-pointer"
         >
           Listeleri Sil
         </button>
